@@ -1,4 +1,4 @@
-# Gitter char room
+# Gitter chat room
 
 > Feel free to chat with us. We might not response quickly, please check it back later :)
 
