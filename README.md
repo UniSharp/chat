@@ -1,6 +1,6 @@
 # Telegram chat room
 
-> Feel free to **[chat with us on Telegram](https://t.me/joinchat/FLbRGQ7emIiU-VDn5RdGlQ)**.
+> Feel free to **[Chat with us on Telegram](https://t.me/unisharp_opensource)**.
 
 
 
